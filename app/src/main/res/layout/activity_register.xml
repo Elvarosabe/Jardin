@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.soulbro.jardin.RegisterActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titudos"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:textSize="20sp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="213dp"
+        android:layout_height="183dp"
+        android:src="@drawable/jardin"
+        android:layout_gravity="center"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/username"
+        android:id="@+id/tunom"
+        android:gravity="center"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:gravity="center"
+        android:id="@+id/tucontra"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/repassword"
+        android:inputType="textPassword"
+        android:gravity="center"
+        android:id="@+id/tucontra2"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/correo"
+        android:gravity="center"
+        android:id="@+id/tucorreo"/>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="@string/registrito"
+        android:layout_gravity="left"
+        android:id="@+id/bregistra"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="@string/Cancel"
+        android:layout_gravity="right"
+        android:id="@+id/bcancela"/>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+

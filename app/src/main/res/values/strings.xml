@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JardinTurismo</string>
+    <string name="Titulo">Jardin</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciarses">Iniciar Sesion</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="titudos">Registro</string>
+    <string name="repassword">Repetir contraseña</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="registrito">Registrarse</string>
+    <string name="miPerfi">Mi perfil</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="mensaje">Jardin El pueblo mas hermoso de Antioquia</string>
+    <string name="desc1">Cable Aéreo de Jardin :</string>
+    <string name="desc2">Ruta del Café : </string>
+    <string name="pagp">Página principal</string>
+</resources>

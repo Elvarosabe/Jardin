@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_perfil"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.soulbro.jardin.PerfilActivity">
+
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/muestralo"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+
+
+    <ImageView
+        android:layout_width="338dp"
+        android:layout_height="411dp"
+        android:src="@drawable/carita"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/muestralo2"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+    
+    
+    
+    
+    
+</LinearLayout>
