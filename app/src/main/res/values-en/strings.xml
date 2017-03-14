@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jardin Touristic</string>
+    <string name="Titulo">Jardin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="iniciarses">Sign in</string>
+    <string name="registrarse">Sign up</string>
+    <string name="titudos">Register</string>
+    <string name="repassword">Retype password</string>
+    <string name="correo">Email</string>
+    <string name="Cancel">Cancel</string>
+    <string name="registrito">Sign up</string>
+    <string name="miPerfi">My profile</string>
+    <string name="cerrarSesion">Log Out</string>
+    <string name="mensaje">Jardin  Antioquia most beautiful town  </string>
+    <string name="desc1"> Jardin Cable :</string>
+    <string name="desc2">Coffe route : </string>
+    <string name="pagp">Main page</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hoteluno">Jardin</string>
+    <string name="hoteldos">Balcones</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="hoteltres">la Casona</string>
+    <string name="title_activity_sitios">SitiosActivity</string>
+    <string name="sitiouno">Cable</string>
+    <string name="sitiodos">Cueva</string>
+    <string name="sitiotres">Tour</string>
+    <string name="sit">Tourism</string>
+    <string name="rest">Restaurants</string>
+    <string name="title_activity_restaurantes">RestaurantesActivity</string>
+    <string name="restuno">Margaritas</string>
+    <string name="restdos">Dulces</string>
+    <string name="restres">Valdivia</string>
+    <string name="goback">Main page</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="huno">
+Located in the southwest of Antioquia to 120 km of Medellín, it has the most attractive balconies of Colombia. Its balconies are the best place to contemplate the temple built in carved stone and the main park.</string>
+    <string name="hdos">Located in the framework of the main square, it has 18 rooms: 10 rooms with balcony and 8 internal. Restaurant service, wet area, internet, game room and reading.</string>
+    <string name="htr">It offers accommodation services, especially to family groups, with peaceful and quiet spaces for rest and encounter with our Antioqueño customs.</string>
+    <string name="cuno">It is a means of transport and of load for the peasants and also one of the attractive tourist of the municipality. The cost round trip for tourists has a value of 5,000 Colombian pesos.</string>
+    <string name="cva">The cave of splendor has become one of the most important tourist attractions of the municipality of jardin Antioquia, is a wonderful place, imposing and full of majesty and splendor, as well as an attraction for people interested in extreme sports.</string>
+    <string name="ct">Another of the wonderful adventures that can be enjoyed in Jardin is to take a tour of its already renowned coffee plantations and witness firsthand the whole process that involves the elaboration of this Antioqueño coffee, emblem of the municipality and the department.</string>
+    <string name="mar">A pleasant place to enjoy a good seasoning and the best of services.</string>
+    <string name="dulc">"The sweets of the garden that enchant until the same pope, It takes the first place of the most visited tourist sites in Garden."</string>
+    <string name="ev">The valdivia restaurant aside from its exquisite seasoning, has ample spaces for the enjoyment of the whole family and to get in touch with the autochthonous traditions of this small corner of the sky in Antioquia.</string>
+
+
+
+
+
+</resources>

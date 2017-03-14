@@ -3,6 +3,23 @@
     <item
         android:id="@+id/pagprinc"
         android:title="@string/pagp" />
+
+
+
+    <item
+        android:id="@+id/hoteles"
+        android:title="@string/hoteles"
+        />
+
+    <item
+        android:id="@+id/sitios"
+        android:title="@string/sit"
+        />
+    <item
+        android:id="@+id/rest"
+        android:title="@string/rest"
+        />
+
     <item
 
         android:id="@+id/mLogOut"

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mhotel1"
+        android:title="@string/hoteluno" />
+    <item
+
+        android:id="@+id/mhotel2"
+        android:title="@string/hoteldos"
+        />
+</menu>

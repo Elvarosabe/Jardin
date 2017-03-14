@@ -41,6 +41,32 @@ public class MainActivity extends AppCompatActivity {
                     intent.putExtra("correo",correo); //envio mi correo de usuario a PerfilActivity
                     startActivity(intent);
                     break;
+
+                case R.id.hoteles:
+
+                    intent = new Intent(MainActivity.this,HotelActivity.class);
+                    intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
+                    intent.putExtra("correo",correo);
+                    startActivity(intent);
+                    break;
+
+                case R.id.sitios:
+
+                    intent = new Intent(MainActivity.this,SitiosActivity.class);
+                    intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
+                    intent.putExtra("correo",correo);
+                    startActivity(intent);
+                    break;
+
+                case R.id.rest:
+
+                    intent = new Intent(MainActivity.this,RestaurantesActivity.class);
+                    intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
+                    intent.putExtra("correo",correo);
+                    startActivity(intent);
+
+                    break;
+
                 case R.id.mLogOut:
                      intent =new Intent(MainActivity.this,LoginActivity.class);
                     startActivity(intent);

@@ -47,12 +47,44 @@ public class PerfilActivity extends AppCompatActivity {
         {
             case R.id.pagprinc:
                 //llamo mi actividad
-                intent = new Intent(PerfilActivity.this,MainActivity.class);
-                startActivity(intent);
+                Intent intent = new Intent();
+                // intent = new Intent(PerfilActivity.this,MainActivity.class);
+                setResult(RESULT_OK, intent);
+                finish();
+                //startActivity(intent);
                 break;
+
+            case R.id.hoteles:
+
+                intent = new Intent(PerfilActivity.this,HotelActivity.class);
+                intent.putExtra("username",user); //envio mi nombre de usuario a PerfilActivity
+                intent.putExtra("correo",correo);
+                startActivity(intent);
+                finish();
+                break;
+
+            case R.id.sitios:
+
+                intent = new Intent(PerfilActivity.this,SitiosActivity.class);
+                intent.putExtra("username",user); //envio mi nombre de usuario a PerfilActivity
+                intent.putExtra("correo",correo);
+                startActivity(intent);
+                finish();
+                break;
+
+            case R.id.rest:
+
+                intent = new Intent(PerfilActivity.this,RestaurantesActivity.class);
+                intent.putExtra("username",user); //envio mi nombre de usuario a PerfilActivity
+                intent.putExtra("correo",correo);
+                startActivity(intent);
+                finish();
+                break;
+
             case R.id.mLogOut:
                 intent =new Intent(PerfilActivity.this,LoginActivity.class);
                 startActivity(intent);
+                finish();
 
 
                 break;

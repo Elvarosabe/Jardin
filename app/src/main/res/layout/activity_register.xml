@@ -49,6 +49,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/correo"
         android:gravity="center"
+        android:inputType="textEmailAddress"
         android:id="@+id/tucorreo"/>
 
 

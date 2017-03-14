@@ -16,4 +16,38 @@
     <string name="desc1">Cable Aéreo de Jardin :</string>
     <string name="desc2">Ruta del Café : </string>
     <string name="pagp">Página principal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hoteluno">Jardin</string>
+    <string name="hoteldos">Balcones</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="hoteltres">la Casona</string>
+    <string name="title_activity_sitios">SitiosActivity</string>
+    <string name="sitiouno">Cable</string>
+    <string name="sitiodos">Cueva</string>
+    <string name="sitiotres">Tour</string>
+    <string name="sit">Turismo</string>
+    <string name="rest">Restaurante</string>
+    <string name="title_activity_restaurantes">RestaurantesActivity</string>
+    <string name="restuno">Margaritas</string>
+    <string name="restdos">Dulces</string>
+    <string name="restres">Valdivia</string>
+    <string name="goback">Pagina principal</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="huno">Ubicado en el suroeste de antioquia a 120 km de Medellín, cuenta con los balcones mas atractivos de Colombia. El mejor lugar para contemplar el templo y el parque principal.</string>
+    <string name="hdos">Ubicado en el marco de la plaza principal, cuenta con 18 habitaciones: 10 habitaciones con balcon y 8 internas. Servicio de Restaurante, zona humeda, internet, sala de juego y lectura.</string>
+    <string name="htr">Ofrece servicios de alojamiento, especialmente a grupos familiares, con espacios apacibles y tranquilos para el descanso y encuentro con nuestras costumbres antioqueñas.</string>
+    <string name="cuno">Es un medio de transporte y de carga para los campesinos y tambien uno de los atractivos turisticos del municipio. El costo ida y vuelta para turistas tiene un valor de 5.000 pesos colombianos.</string>
+    <string name="cva">La cueva del esplendor se ha convertido en uno de los atractivos turisticos mas importantes del municipio de jardin Antioquia, es simplemente un lugar maravilloso.</string>
+    <string name="ct">Otra de las maravillosas aventuras que puede disfrutar en Jardin, es la de emprender un tour por sus ya reconocidas haciendas cafeteras y presenciar de primera mano todo el proceso que conlleva la elaboración de este café antioqueño.</string>
+    <string name="mar">Un sitio agradable para disfrutar de una buena sazón y el mejor de los servicios.</string>
+    <string name="dulc">\"Los dulces del jardín que encantan hasta al mismo papa, Se lleva el primer puesto de los sitios turisticos mas visitados en Jardín. "</string>
+    <string name="ev">El estadero valdivia aparte de su exquisita sazón, cuenta con espacios amplios para el disfrute de toda la familia y para que entre en contacto con las tradiciones autoctonas de este pequeño rincon del cielo en Antioquia.</string>
 </resources>
