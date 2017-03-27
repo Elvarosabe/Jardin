@@ -50,4 +50,9 @@
     <string name="mar">Un sitio agradable para disfrutar de una buena sazón y el mejor de los servicios.</string>
     <string name="dulc">\"Los dulces del jardín que encantan hasta al mismo papa, Se lleva el primer puesto de los sitios turisticos mas visitados en Jardín. "</string>
     <string name="ev">El estadero valdivia aparte de su exquisita sazón, cuenta con espacios amplios para el disfrute de toda la familia y para que entre en contacto con las tradiciones autoctonas de este pequeño rincon del cielo en Antioquia.</string>
+    <string name="title_activity_hotel_d">HotelDActivity</string>
+    <string name="title_activity_restau_d">RestauDActivity</string>
+    <string name="title_activity_sitios_d">SitiosDActivity</string>
+    <string name="Turismo">Turismo</string>
+    <string name="title_activity_main_d">MainDActivity</string>
 </resources>

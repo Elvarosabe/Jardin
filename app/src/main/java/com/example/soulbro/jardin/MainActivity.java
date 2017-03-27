@@ -34,47 +34,47 @@ public class MainActivity extends AppCompatActivity {
 
             switch (id)
             {
-                case R.id.miPerfil:
+                /*case R.id.miPerfil:
                     //llamo mi actividad
                      intent = new Intent(MainActivity.this,PerfilActivity.class);
                     intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
                     intent.putExtra("correo",correo); //envio mi correo de usuario a PerfilActivity
                     startActivity(intent);
-                    break;
+                    break;  */
 
                 case R.id.hoteles:
 
-                    intent = new Intent(MainActivity.this,HotelActivity.class);
+                   /* intent = new Intent(MainActivity.this,HotelDActivity.class);
                     intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
                     intent.putExtra("correo",correo);
                     startActivity(intent);
                     break;
-
+*/
                 case R.id.sitios:
 
-                    intent = new Intent(MainActivity.this,SitiosActivity.class);
+  /*                  intent = new Intent(MainActivity.this,SitiosDActivity.class);
                     intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
                     intent.putExtra("correo",correo);
                     startActivity(intent);
                     break;
-
+*/
                 case R.id.rest:
 
-                    intent = new Intent(MainActivity.this,RestaurantesActivity.class);
+  /*                  intent = new Intent(MainActivity.this,RestauDActivity.class);
                     intent.putExtra("username",username); //envio mi nombre de usuario a PerfilActivity
                     intent.putExtra("correo",correo);
                     startActivity(intent);
 
                     break;
-
+*/
                 case R.id.mLogOut:
-                     intent =new Intent(MainActivity.this,LoginActivity.class);
+  /*                   intent =new Intent(MainActivity.this,LoginActivity.class);
                     startActivity(intent);
 
 
                     break;
 
-
+*/
 
             }
 

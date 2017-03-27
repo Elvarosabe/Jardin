@@ -56,7 +56,7 @@ public class PerfilActivity extends AppCompatActivity {
 
             case R.id.hoteles:
 
-                intent = new Intent(PerfilActivity.this,HotelActivity.class);
+                intent = new Intent(PerfilActivity.this,HotelDActivity.class);
                 intent.putExtra("username",user); //envio mi nombre de usuario a PerfilActivity
                 intent.putExtra("correo",correo);
                 startActivity(intent);
@@ -65,7 +65,7 @@ public class PerfilActivity extends AppCompatActivity {
 
             case R.id.sitios:
 
-                intent = new Intent(PerfilActivity.this,SitiosActivity.class);
+                intent = new Intent(PerfilActivity.this,SitiosDActivity.class);
                 intent.putExtra("username",user); //envio mi nombre de usuario a PerfilActivity
                 intent.putExtra("correo",correo);
                 startActivity(intent);
@@ -74,7 +74,7 @@ public class PerfilActivity extends AppCompatActivity {
 
             case R.id.rest:
 
-                intent = new Intent(PerfilActivity.this,RestaurantesActivity.class);
+                intent = new Intent(PerfilActivity.this,RestauDActivity.class);
                 intent.putExtra("username",user); //envio mi nombre de usuario a PerfilActivity
                 intent.putExtra("correo",correo);
                 startActivity(intent);

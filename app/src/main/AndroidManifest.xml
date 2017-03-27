@@ -33,8 +33,20 @@
             android:label="@string/title_activity_restaurantes"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".DrawerActivity"
-            android:label="@string/title_activity_drawer"
+            android:name=".HotelDActivity"
+            android:label="@string/title_activity_hotel_d"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RestauDActivity"
+            android:label="@string/title_activity_restau_d"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SitiosDActivity"
+            android:label="@string/title_activity_sitios_d"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainDActivity"
+            android:label="@string/title_activity_main_d"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
